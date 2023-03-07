@@ -13,12 +13,19 @@ Now I am a beginner Front-End developer. At the moment I am actively learning HT
 + Figma
 ## Code Example
 function toBinary(n){
+
     let str = '';
+
     while (n) {
+
         str += n % 2;
+
         n = Math.floor (n / 2);
+
     }
+
     return Number(str.split("").reverse().join(""));
+    
 }
 ## Projects
 1. CV 
