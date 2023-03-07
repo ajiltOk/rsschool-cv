@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ajiltok.github.io/rsschool-cv/cv
