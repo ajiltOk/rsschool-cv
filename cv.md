@@ -12,27 +12,36 @@ Now I am a beginner Front-End developer. At the moment I am actively learning HT
 + VS Code
 + Figma
 ## Code Example
+
 function toBinary(n){
+
     let str = '';
+
     while (n) {
+
         str += n % 2;
+
         n = Math.floor (n / 2);
+
     }
+
     return Number(str.split("").reverse().join(""));
+
 }
+
 ## Projects
-1. CV 
-2. Plants
-3. Momentum
-4. Will be soon...
+* CV 
+* Plants
+* Momentum
+* Will be soon...
 ## Education
-2010-2015
++ 2010-2015
 
 Polotsk State University
 
 Faculty of Computer Science and Electronics (FCSE), Electric Power Supply
 
-2022-2023
++ 2022-2023
 
 The Rolling Scopes
 
