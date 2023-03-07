@@ -1,11 +1,11 @@
 # Vitaly Kisel
-## Contact iformation
+## Contact information
 - Phone: +375 (29) 812-35-87
 - Email: 21summer12@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/vitaly-kisel-7ab499248/)
 ## About me
 Now I am a beginner Front-End developer. At the moment I am actively learning HTML, CSS and JavaScript. My main qualities are the ability to work in a team and the ability to learn quickly.
-## Skils
+## Skills
 + HTML
 + CSS (SASS/SCSS)
 + JavaScript(Basic)
