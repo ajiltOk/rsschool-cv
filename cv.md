@@ -42,10 +42,8 @@ alert(calculator.sum());
 
 alert(calculator.mul());
 ## Projects
-1. CV
-2. Plants
-3. Momentum
-4. Will be soon...
+1. CV project
+2. Will be soon...
 ## Education
 2010-2015
 
@@ -60,5 +58,4 @@ The Rolling Scopes
 Preparatory course «JavaScript/Front-end. Stage 0»
 ## Languages
 * English - A2 (Pre-Intermediate)
-* Russian - Native
 * Belarussian - C1 (Advanced)
