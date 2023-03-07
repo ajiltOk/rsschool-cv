@@ -1,0 +1,166 @@
+html {
+    scroll-behavior: smooth; 
+  }
+
+.header-wrapper {
+    background: url(./assets/img/main.jpg);
+    background-size: cover;
+}
+
+.avatar {
+    border-radius: 50%;
+    margin: 30px 0 0 30px;
+}
+
+.header-text {
+    max-width: 360px;
+    text-align: center;
+}
+
+.header__container {
+    max-width: 1600px;
+    margin: auto
+}
+
+.main__container {
+    max-width: 1600px;
+    background-color: #f4a958;
+    margin: auto
+}
+
+.footer__container {
+    max-width: 1600px;
+    background-color: #FBEC5D;
+    display: flex;
+    justify-content: space-between;
+    margin: auto
+}
+
+h1 {
+    margin: 20px 0;
+    color: #B22222;
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 32px;
+    padding: 50px 0;
+    margin: 0;
+    text-align: center;
+    color: #B22222;
+}
+
+.header__h2 {
+    padding: 20px 0;
+}
+
+.nav-wrapper {
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+.navigation {
+    display: flex;
+    margin: 0;
+    justify-content: space-around;
+    padding: 25px 0;
+}
+
+ul {
+    margin: 0;
+    padding: 20px 0 20px 50px;
+}
+
+ol {
+    margin: 20px 0 20px 50px;
+    padding-left: 20px;
+}
+
+li {
+    font-size: 26px;
+}
+
+.navigation__li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #e41414;
+}
+
+a:hover {
+    cursor: pointer;
+    transition: all .3s ease-out;
+    color: #f4a958;
+}
+
+a:active {
+    color: #89d4d2;
+}
+
+.container {
+    width: 1200px;
+    margin: auto;
+    background-color: #FFFACD;
+}
+
+.contacts__li {
+    margin: 10px 0;
+    list-style: none;
+}
+
+.text {
+    margin: 0 50px;
+    font-size: 26px;
+    text-indent: 30px;
+}
+
+.skils__li {
+    margin: 15px 0;
+    list-style: inside;
+}
+
+p {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+.example {
+    padding-left: 50px;
+}
+
+.info {
+    margin-left: 50px;
+}
+
+.years {
+    width: 100px;
+    text-align: center;
+    background-color: #f4a958;
+    border-radius: 10px;
+}
+
+.univer {
+    font-size: 26px;
+}
+
+.lang__li {
+    margin: 15px 0;
+    list-style: inside;
+}
+
+.author {
+    margin: 100px 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.logo {
+    margin-left: 50px;
+}
+
+.svg {
+    height: 200px;
+    width: 300px;
+}
