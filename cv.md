@@ -12,6 +12,7 @@ Now I am a beginner Front-End developer. At the moment I am actively learning HT
 + VS Code
 + Figma
 ## Code Example
+
 function toBinary(n){
 
     let str = '';
@@ -25,8 +26,9 @@ function toBinary(n){
     }
 
     return Number(str.split("").reverse().join(""));
-    
+
 }
+
 ## Projects
 1. CV 
 2. Plants
