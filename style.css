@@ -18,18 +18,18 @@ html {
 }
 
 .header__container {
-    width: 1440px;
+    max-width: 1600px;
     margin: auto
 }
 
 .main__container {
-    width: 1440px;
+    max-width: 1600px;
     background-color: #f4a958;
     margin: auto
 }
 
 .footer__container {
-    width: 1440px;
+    max-width: 1600px;
     background-color: #FBEC5D;
     display: flex;
     justify-content: space-between;
@@ -123,14 +123,6 @@ a:active {
 p {
     margin: 10px 0;
     font-size: 18px;
-}
-
-.indent-1 {
-    margin-left: 20px;
-}
-
-.indent-2 {
-    margin-left: 40px;
 }
 
 .example {
