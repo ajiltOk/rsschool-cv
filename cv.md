@@ -35,13 +35,13 @@ function toBinary(n){
 * Momentum
 * Will be soon...
 ## Education
-2010-2015
++ 2010-2015
 
 Polotsk State University
 
 Faculty of Computer Science and Electronics (FCSE), Electric Power Supply
 
-2022-2023
++ 2022-2023
 
 The Rolling Scopes
 
