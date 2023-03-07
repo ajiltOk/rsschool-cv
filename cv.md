@@ -30,10 +30,10 @@ function toBinary(n){
 }
 
 ## Projects
-1. CV 
-2. Plants
-3. Momentum
-4. Will be soon...
+* CV 
+* Plants
+* Momentum
+* Will be soon...
 ## Education
 2010-2015
 
