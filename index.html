@@ -59,23 +59,37 @@
                 </section>
                 <section class="code">
                     <h2 id="code-ex">Code example</h2>
-                    <div class="example">
-                        <p><strong>let</strong> calculator = {</p>
-                            <p class="indent-1">sum() {</p>
-                                <p class="indent-2"><strong>return</strong> this.a + this.b;</p>
-                            <p class="indent-1">},</p>    
-                            <p class="indent-1">mul() {</p>
-                                <p class="indent-2"><strong>return</strong> this.a * this.b;</p>
-                            <p class="indent-1">},</p>
-                            <p class="indent-1">read() {</p>
-                                <p class="indent-2">this.a = +<strong>prompt</strong>('Введите чило "a"?', 0);</p>
-                                <p class="indent-2">this.b = +<strong>prompt</strong>('Введите чило "b"?', 0);</p>
-                            <p class="indent-1">}</p>
-                        <p>};</p>
-                        <p>calculator.read();</p>
-                        <p><strong>alert</strong>(calculator.sum());</p>
-                        <p><strong>alert</strong>(calculator.mul());</p>
-                    </div>
+                    <pre>
+                        let calculator = {
+
+                            sum() {
+                            
+                            return this.a + this.b;
+                            
+                            },
+                            
+                            mul() {
+                            
+                            return this.a * this.b;
+                            
+                            },
+                            
+                            read() {
+                            
+                            this.a = +prompt('Введите чило "a"?', 0);
+                            
+                            this.b = +prompt('Введите чило "b"?', 0);
+                            
+                            }
+                            
+                        };
+                            
+                        calculator.read();
+                            
+                        alert(calculator.sum());
+                            
+                        alert(calculator.mul());
+                    </pre>
                 </section>
                 <section class="projects">
                     <h2 id="proj">Projects</h2>
