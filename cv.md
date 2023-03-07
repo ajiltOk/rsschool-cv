@@ -12,35 +12,14 @@ Now I am a beginner Front-End developer. At the moment I am actively learning HT
 + VS Code
 + Figma
 ## Code Example
-let calculator = {
-
-sum() {
-
-return this.a + this.b;
-
-},
-
-mul() {
-
-return this.a * this.b;
-
-},
-
-read() {
-
-this.a = +prompt('Введите чило "a"?', 0);
-
-this.b = +prompt('Введите чило "b"?', 0);
-
+function toBinary(n){
+    let str = '';
+    while (n) {
+        str += n % 2;
+        n = Math.floor (n / 2);
+    }
+    return Number(str.split("").reverse().join(""));
 }
-
-};
-
-calculator.read();
-
-alert(calculator.sum());
-
-alert(calculator.mul());
 ## Projects
 1. CV 
 2. Plants
